@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="T01"/>
+        <attribute name="authors" value="hp"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-04 09:11:21 PM"/>
+        <attribute name="created" value="aHA7TEFQVE9QLVVSVDZGN0xFOzIwMjQtMDktMDQ7MDg6MTI6NTkgUE07MjU5MA=="/>
+        <attribute name="edited" value="aHA7TEFQVE9QLVVSVDZGN0xFOzIwMjQtMDktMDQ7MDk6MTE6MjEgUE07MjsyNjg4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="bestay" type="String" array="False" size=""/>
+            <input variable="bestay"/>
+            <output expression="&quot;madas&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
